@@ -1,0 +1,8 @@
+-- INSERT INTO product (name, description, brand, price, category, available, quantity)
+-- VALUES ('iPhone 15', 'Apple flagship smartphone', 'Apple', 799.99, 'Electronics', true, 50);
+--
+-- INSERT INTO product (name, description, brand, price, category, available, quantity)
+-- VALUES ('MacBook Air M3', 'Lightweight powerful laptop', 'Apple', 1099.00, 'Electronics', true, 30);
+--
+-- INSERT INTO product (name, description, brand, price, category, available, quantity)
+-- VALUES ('Sony WH-1000XM5', 'Wireless noise canceling headphones', 'Sony', 349.99, 'Audio', true, 100);
